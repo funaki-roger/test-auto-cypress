@@ -1,0 +1,23 @@
+{
+  "name": "test-auto-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funaki-roger/test-auto-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/funaki-roger/test-auto-cypress/issues"
+  },
+  "homepage": "https://github.com/funaki-roger/test-auto-cypress#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.5.3"
+  }
+}
